@@ -1,5 +1,3 @@
-![Pacific Dataviz Challenge 2026](<Pacific Dataviz Challenge.png>)
-
 # Pacific-Dataviz-Challenge
 My entry for the 2026 Pacific Dataviz Challenge.
 
@@ -14,3 +12,5 @@ For transparency:
 Within notebooks and processed data, I have retained commentary and engineered features pertaining to project outcomes which were not implemented.
 
 As required by the Pacific Data Viz Challenge, this project uses datasets from the Pacific Data Hub.
+
+![Pacific Dataviz Challenge 2026](<Pacific Dataviz Challenge 2026/submission/Pacific Dataviz Challenge.png>)
