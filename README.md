@@ -14,4 +14,4 @@ Within notebooks and processed data, I have retained commentary and engineered f
 
 As required by the Pacific Dataviz Challenge, this project uses datasets from the Pacific Data Hub.
 
-![Pacific Dataviz Challenge 2026](<Pacific Dataviz Challenge 2026/submission/Pacific Dataviz Challenge.png>)
+![Pacific Dataviz Challenge 2026](<Pacific Dataviz Challenge 2026/submission/Pacific Dataviz Challenge Screenshot.png>)
