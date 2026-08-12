@@ -1,4 +1,4 @@
-![Pacific Data Viz Challenge 2026](Pacific Dataviz Challenge.png)
+![Pacific Dataviz Challenge 2026](<Pacific Dataviz Challenge.png>)
 
 # Pacific-Dataviz-Challenge
 My entry for the 2026 Pacific Dataviz Challenge.
