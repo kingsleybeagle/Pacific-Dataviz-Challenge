@@ -1,0 +1,155 @@
+{
+  "name": "Pacific_Research_Journal_Theme",
+  "dataColors": [
+    "#2563EB", 
+    "#0EA5E9", 
+    "#0D9488", 
+    "#16A34A", 
+    "#D97706", 
+    "#DC2626"
+  ],
+  "background": "#F8FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#E2E8F0",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 22,
+      "color": "#0F172A"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#0F172A"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 11,
+      "color": "#0F172A"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 9.5,
+      "color": "#475569"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#F8FAFC" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": false,
+            "color": { "solid": { "color": "#E2E8F0" } },
+            "radius": 0
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "fontColor": { "solid": { "color": "#0F172A" } },
+            "fontSize": 12
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#F8FAFC" } },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "advancedSlicer": {
+      "*": {
+        "button": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 9.5,
+            "fontColor": { "solid": { "color": "#475569" } },
+            "fill": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0,
+            "border": true,
+            "borderColor": { "solid": { "color": "#E2E8F0" } },
+            "borderWidth": 1,
+            "borderRadius": 0
+          }
+        ],
+        "buttonStateHover": [
+          {
+            "fontColor": { "solid": { "color": "#0F172A" } },
+            "fill": { "solid": { "color": "#F1F5F9" } },
+            "borderColor": { "solid": { "color": "#CBD5E1" } }
+          }
+        ],
+        "buttonStateSelected": [
+          {
+            "fontColor": { "solid": { "color": "#0F172A" } },
+            "fill": { "solid": { "color": "#F8FAFC" } },
+            "borderColor": { "solid": { "color": "#0F172A" } },
+            "borderWidth": 1.5
+          }
+        ]
+      }
+    },
+    "scatterChart": {
+      "*": {
+        "title": [
+          {
+            "fontFamily": "Segoe UI Semibold",
+            "fontColor": { "solid": { "color": "#0F172A" } },
+            "fontSize": 12
+          }
+        ],
+        "plotArea": [
+          {
+            "transparency": 100
+          }
+        ],
+        "categoryAxis": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 9,
+            "labelColor": { "solid": { "color": "#64748B" } },
+            "titleFontColor": { "solid": { "color": "#475569" } },
+            "gridlineShow": false
+          }
+        ],
+        "valueAxis": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 9,
+            "labelColor": { "solid": { "color": "#64748B" } },
+            "titleFontColor": { "solid": { "color": "#475569" } },
+            "gridlineShow": true,
+            "gridlineColor": { "solid": { "color": "#F1F5F9" } },
+            "gridlineStyle": "solid"
+          }
+        ],
+        "markers": [
+          {
+            "transparency": 25,
+            "showOutline": true,
+            "outlineColor": { "solid": { "color": "#0F172A" } },
+            "outlineWidth": 1
+          }
+        ]
+      }
+    }
+  }
+}
