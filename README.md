@@ -50,11 +50,6 @@ I found that the more I engaged with Gemini, the more questions I had, and the m
 
 My final result was something much simpler than I originally anticipated, however I was very happy with how it turned out, and found that AI was most productive when used to explore aesthetic changes.
 <br><br>
-<details>
-  <summary>SPOILER</summary>
-
-  My final submission looked very different to my sketches!
-</details>
 <br><br>
 <p align="center">
   <img src="Pacific Dataviz Challenge 2026/design ideas/initial_sketch-1.png" alt="sketch 1" width="600" style="margin-bottom: 24px;">
