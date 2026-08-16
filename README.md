@@ -12,7 +12,7 @@ Within notebooks and processed data, I have retained commentary and engineered f
 
 As required by the Pacific Dataviz Challenge, this project uses datasets from the Pacific Data Hub.
 
-### Full Report (Static)
+### Full Report (static)
 ![Pacific Dataviz Challenge 2026](<Pacific Dataviz Challenge 2026/submission/Pacific Dataviz Challenge Screenshot.png>)
 _Figure 1: Full report overview_
 <br><br>
@@ -49,7 +49,7 @@ As such, early iterations of this project included Streamlit apps, Piecewise Lin
 I found that the more I engaged with Gemini, the more questions I had, and the more doubts I had. This resulted in too many hours of prompting and noting down ideas, and too little actual output (no output). Therefore, I went back to basics and used a pen and paper to sketch out the below masterpieces. After completing this process, I found my feet (actually produced something in PowerBI) and spent the next week or so coming back to the design and tweaking it here and there.
 
 My final result was something much simpler than I originally anticipated, however I was very happy with how it turned out, and found that AI was most productive when used to explore aesthetic changes.
-<br><br>
+
 <br><br>
 <p align="center">
   <img src="Pacific Dataviz Challenge 2026/design ideas/initial_sketch-1.png" alt="sketch 1" width="600" style="margin-bottom: 24px;">
