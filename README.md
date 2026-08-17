@@ -56,9 +56,16 @@ I was very happy with how my report turned out, and I found that AI was most pro
 <p align="center">
   <img src="Pacific Dataviz Challenge 2026/design ideas/initial_sketch-1.png" alt="sketch 1" width="600" style="margin-bottom: 24px;">
 </p>
+_Figure 6: Sketch Page 1_
+<br><br>
+<br><br>
 <p align="center">
   <img src="Pacific Dataviz Challenge 2026/design ideas/initial_sketch-2.png" alt="sketch 2" width="600" style="margin-bottom: 24px;">
 </p>
+_Figure 7: Sketch Page 2_
+<br><br>
+<br><br>
 <p align="center">
   <img src="Pacific Dataviz Challenge 2026/design ideas/initial_sketch-3.png" alt="sketch 3" width="600" style="margin-bottom: 24px;">
 </p>
+_Figure 8: Sketch Page 3_
