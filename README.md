@@ -52,19 +52,25 @@ The more I engaged with Gemini, the more questions I had, and the more doubts I 
 <p align="center">
   <img src="Pacific Dataviz Challenge 2026/design ideas/initial_sketch-1.png" alt="sketch 1" width="600" style="margin-bottom: 24px;">
 </p>
+
 *Figure 6: Sketch Page 1*
+
 <br><br>
 <br><br>
 <p align="center">
   <img src="Pacific Dataviz Challenge 2026/design ideas/initial_sketch-2.png" alt="sketch 2" width="600" style="margin-bottom: 24px;">
 </p>
+
 *Figure 7: Sketch Page 2*
+
 <br><br>
 <br><br>
 <p align="center">
   <img src="Pacific Dataviz Challenge 2026/design ideas/initial_sketch-3.png" alt="sketch 3" width="600" style="margin-bottom: 24px;">
 </p>
+
 *Figure 8: Sketch Page 3*
+
 <br><br>
 <br><br>
 
