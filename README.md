@@ -46,11 +46,7 @@ I used Google Gemini to assist in the development of this project. Although usef
 
 As such, early iterations of this project included Streamlit apps, Piecewise Linear Regression, and comparisons of Pacific Island tourist initiatives against those from the Galapagos Islands. 
 
-The more I engaged with Gemini, the more questions I had, and the more doubts I had. This resulted in too many hours of prompting and noting down ideas, and too little actual output (I spent more time optimising prompts, rather than actually producing dataviz). I therefore went back to basics and used pen and paper to sketch out the below (human generated) foundations from which the rest of my work was built. After completing this process everything from then on out felt productive and aligned to the project requirements, I spent the next week or two iterating on my submission.
-
-A key moment was when I decided to switch from the my sketched design (three page dashboard) to a long form style report. This achieved a final output that was less complex than I originally planned, while delivering a flow felt that felt more appropriate to the project context. The end result was a bespoke single page report designed for exploration which interactively took the user on a journey from observation to context to suggestions.  
-
-I was very happy with how my report turned out, and I found that AI was most productive as a design aid when used to explore aesthetic changes.
+The more I engaged with Gemini, the more questions I had, and the more doubts I had. This resulted in too many hours of prompting and noting down ideas, and too little actual output (I spent more time optimising prompts, rather than actually producing dataviz). I therefore went back to basics and used pen and paper to sketch out the below (human generated) foundations from which the rest of my work was built.
 
 <br><br>
 <p align="center">
@@ -69,3 +65,11 @@ _Figure 7: Sketch Page 2_
   <img src="Pacific Dataviz Challenge 2026/design ideas/initial_sketch-3.png" alt="sketch 3" width="600" style="margin-bottom: 24px;">
 </p>
 _Figure 8: Sketch Page 3_
+<br><br>
+<br><br>
+
+After completing this process everything from then on out felt productive and aligned to the project requirements, I spent the next week or two iterating on my submission.
+
+A pivotal moment in the project came when I decided to switch from the my sketched design format (three page dashboard) to a long form style report. This achieved a final output that was less complex than I originally planned, while delivering a flow felt that felt more appropriate to the project context. The end result was a bespoke single page report designed for exploration which interactively took the user on a journey from observation to context to suggestions.  
+
+I was very happy with how my report turned out, and I found that AI was most productive as a design aid when used to explore aesthetic changes.
