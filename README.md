@@ -6,9 +6,9 @@ My entry for the 2026 Pacific Dataviz Challenge.
 ## Project Summary
 This project analyses the dynamics between tourism reliance, renewable energy share, and decarbonisation opportunities across select Pacific Island locations. Using K-Means clustering and dynamic revenue modelling, it proposes a Shared Pacific Resilience Fund driven by a modest visitor levy ($1–$20/visitor) to fund localised grid decarbonisation.
 
-This submission is entered into the interactive category. As the Power BI report has not been published to a public workspace, the file has been uploaded into this repository, and a pdf export of the file has been included to enable users who do not have Power BI installed to view the content. I recommend reviewing the submission using Power BI to get the full benefit of the interactive aspects of the report.
+This submission is entered into the interactive category. As the Power BI report has not been published to a public workspace, the file has been uploaded into this repository, and a static export of the file has been included to enable users to view the content. Additionally, GIFs showcasing some interactive aspects of the report are embedded below. For the best experience, I recommend downloading the pbix file and exploring the report within Power BI desktop.
 
-Within notebooks and processed data, I have retained commentary and engineered features pertaining to project outcomes which were not implemented.
+Within notebooks and processed data, I have retained commentary and engineered features pertaining to project outcomes which were not implemented. These have been retained to transparently demonstrate the design and development process. 
 
 As required by the Pacific Dataviz Challenge, this project uses datasets from the Pacific Data Hub.
 
@@ -46,9 +46,11 @@ I used Google Gemini to assist in the development of this project. Although usef
 
 As such, early iterations of this project included Streamlit apps, Piecewise Linear Regression, and comparisons of Pacific Island tourist initiatives against those from the Galapagos Islands. 
 
-I found that the more I engaged with Gemini, the more questions I had, and the more doubts I had. This resulted in too many hours of prompting and noting down ideas, and too little actual output (no output). Therefore, I went back to basics and used a pen and paper to sketch out the below masterpieces. After completing this process, I found my feet (actually produced something in PowerBI) and spent the next week or so coming back to the design and tweaking it here and there.
+The more I engaged with Gemini, the more questions I had, and the more doubts I had. This resulted in too many hours of prompting and noting down ideas, and too little actual output (I spent more time optimising prompts, rather than actually producing dataviz). I therefore went back to basics and used pen and paper to sketch out the below (human generated) foundations from which the rest of my work was built. After completing this process everything from then on out felt productive and aligned to the project requirements, I spent the next week or two iterating on my submission.
 
-My final result was something much simpler than I originally anticipated, however I was very happy with how it turned out, and found that AI was most productive when used to explore aesthetic changes.
+A key moment was when I decided to switch from the my sketched design (three page dashboard) to a long form style report. This achieved a final output that was less complex than I originally planned, while delivering a flow felt that felt more appropriate to the project context. The end result was a bespoke single page report designed for exploration which interactively took the user on a journey from observation to context to suggestions.  
+
+I was very happy with how my report turned out, and I found that AI was most productive as a design aid when used to explore aesthetic changes.
 
 <br><br>
 <p align="center">
